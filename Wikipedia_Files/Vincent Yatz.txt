@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'56954033': {'pageid': 56954033, 'ns': 0, 'title': 'Creeper (comics)', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Creeper (DC Comics)]]\n\n{{R from move}}'}}}]}}}}

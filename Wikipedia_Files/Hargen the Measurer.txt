@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'2478698': {'pageid': 2478698, 'ns': 0, 'title': 'Celestials (comics)', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Celestial (comics)]]\n\n{{Redirect category shell|\n{{R from plural}}\n}}'}}}]}}}}

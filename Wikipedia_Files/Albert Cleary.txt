@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'6988179': {'pageid': 6988179, 'ns': 0, 'title': 'Damage Control', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Damage control]] {{R from other capitalisation}}'}}}]}}}}

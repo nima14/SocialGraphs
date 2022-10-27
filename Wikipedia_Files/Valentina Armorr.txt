@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'66018980': {'pageid': 66018980, 'ns': 0, 'title': 'Karate Kid (comics)', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Karate Kid (character)]]\n\n{{Redirect category shell|\n{{R from move}}\n{{R from alternative disambiguation}}\n}}'}}}]}}}}

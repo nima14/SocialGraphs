@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'13788474': {'pageid': 13788474, 'ns': 0, 'title': 'Characters of The Sandman', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[List of The Sandman characters]]'}}}]}}}}

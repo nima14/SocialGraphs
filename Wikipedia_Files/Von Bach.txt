@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'1656537': {'pageid': 1656537, 'ns': 0, 'title': 'Von Bach', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Kingdom Come (comics)]]'}}}]}}}}

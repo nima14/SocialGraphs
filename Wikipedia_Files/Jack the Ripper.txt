@@ -1,0 +1,1 @@
+None{'batchcomplete': '', 'query': {'pages': {'34081246': {'pageid': 34081246, 'ns': 0, 'title': 'Jack the Ripper fiction', 'revisions': [{'slots': {'main': {'contentmodel': 'wikitext', 'contentformat': 'text/x-wiki', '*': '#REDIRECT [[Jack the Ripper in fiction]]'}}}]}}}}
